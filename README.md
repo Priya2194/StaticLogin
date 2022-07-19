@@ -1,0 +1,5 @@
+# StaticLogin![Screenshot_20220719-204706_StaticLogin](https://user-images.githubusercontent.com/58545112/179803596-439d03ec-ecca-4d36-83a1-be8354093fe0.jpg)
+![Screenshot_20220719-204736_StaticLogin](https://user-images.githubusercontent.com/58545112/179803629-c2437c81-b176-4e85-81b1-c9878b98a15d.jpg)
+![Screenshot_20220719-215507_StaticLogin](https://user-images.githubusercontent.com/58545112/179803724-90e13750-47f0-4a5a-9f5b-340d4233dceb.jpg)
+![Screenshot_20220719-204746_StaticLogin](https://user-images.githubusercontent.com/58545112/179803754-9aa61fec-f714-4752-9579-9285f63c1f86.jpg)
+![Screenshot_20220719-204751_StaticLogin](https://user-images.githubusercontent.com/58545112/179803799-5c616734-9e58-42c9-a022-9ec6ced2bde2.jpg)
